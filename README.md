@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Victor De Coen</h1>
-<h3 align="center">Graphic designer and inspiring full-stack developer based in Norway.</h3>
+<h1>Hi 👋, I'm Victor De Coen</h1>
+<h2>Graphic designer and inspiring full-stack developer based in Norway.</h3>
 
 - 🌱 I’m currently learning coding with **The Odin Project**
 
