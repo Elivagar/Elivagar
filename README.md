@@ -3,8 +3,12 @@
 - 👨🏽‍💻 I'm a graphic designer and aspiring full-stack developer.
 - 🏔️ Originally Belgian but based in Norway, where mountain and sea meet!
 - 🌱 Currently learning coding with **The Odin Project**
-
 <br>
+<br>
+
+**Élivágar, ancient rivers of ice and venom, flow from the primordial void, carving the foundations of creation itself,<br>
+where the first sparks of life and the bones of giants were forged in the chilling embrace of chaos.**
+
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
