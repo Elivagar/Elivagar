@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Victor De Coen</h1>
-<h3>Graphic designer and inspiring full-stack developer based in Norway.</h3>
-<br>
-- 🌱 I’m currently learning coding with **The Odin Project**
+<h1>Hey there👋</h1>
+
+I'm a graphic designer and inspiring full-stack developer. Originally Belgian, but based in Norway, where mountain and sea meet 🏔️
+- 🌱 Currently learning coding with **The Odin Project**
 
 <br>
 <br>
