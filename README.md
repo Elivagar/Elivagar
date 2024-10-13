@@ -1,6 +1,7 @@
 <h1>Hey there👋</h1>
 
-I'm a graphic designer and inspiring full-stack developer. Originally Belgian, but based in Norway, where mountain and sea meet 🏔️
+I'm a graphic designer and inspiring full-stack developer.
+Originally Belgian, but based in Norway, where mountain and sea meet 🏔️
 - 🌱 Currently learning coding with **The Odin Project**
 
 <br>
