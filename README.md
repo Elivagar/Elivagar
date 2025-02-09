@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&weight=600&size=32&duration=3200&pause=800&color=B89F5D&random=true&width=435&lines=Hey+there%2C+it's+Victor;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&weight=600&size=32&pause=1000&color=B89F5D&width=435&lines=Hey+there%2C+it's+Victor;Web+Developer)](https://git.io/typing-svg)
 
 ## About Me
 
