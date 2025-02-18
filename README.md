@@ -10,7 +10,7 @@
 
 ### 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,php,html,css,git,github,vscode,figma,ps,ai,wordpress,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,php,html,css,git,github,webflow,vscode,figma,ps,ai,wordpress,apple,windows)](https://skillicons.dev)
 
 
 ### 💡 **Skills**
